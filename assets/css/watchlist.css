@@ -1,0 +1,35 @@
+/* styles for the watchlist modal */
+
+.watch-list-item-container {
+  height: 40px;
+}
+
+#watch-list-btn {
+  font-size: 18px;
+}
+
+.watch-list-checkbox {
+  width: 5%;
+  float: left;
+  margin-top: 3px;
+  margin-left: 60px;
+}
+
+.watch-list-item {
+  width: 60%;
+  float: left;
+}
+
+.watch-list-item:hover  {
+  cursor: pointer;
+}
+
+.watch-list-year {
+  width: 10%;
+  float: left;
+}
+
+.watch-list-time {
+  width: 15%;
+  float: left;
+}

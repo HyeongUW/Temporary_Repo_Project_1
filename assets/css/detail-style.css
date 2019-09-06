@@ -1,0 +1,195 @@
+/* attempt to get youtube video as background */
+*{
+  font-family:  'Carter One', cursive;
+}
+
+body {
+  height: 100%;
+  background-color: #000000;
+  color: #808080;
+}
+
+#player {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+} 
+
+#learn-more-btn {
+  text-align: center;
+  background: grey;
+  display: inline-block;
+}
+
+#savelist-streamingsites {
+  clear: left;
+}
+
+.savelist {
+  float: left;
+  margin-left: 90px;
+}
+
+#book-btn-div {
+  width: 100px;
+  text-align: left;
+  padding: 4px;
+}
+
+#add-fav-btn {
+  width: 110px;
+  text-align: center;
+  font-size: 16px;
+  padding: 0px 10px;
+  margin: auto;
+}
+
+.streaming-site-logos {
+  text-align: left;
+  background: none;
+  float: right;
+  padding: 0;
+  width: 100%;
+}
+
+#streaming-site {
+  width: auto;
+  height: 60px;
+  background: white;
+  margin-right: 20px;
+  float: right;
+}
+
+#movie-title {
+  position: relative;
+  bottom: 100px;
+  left: 100px;
+}
+
+
+#video-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.upper-row {
+  display: block;
+}
+
+
+.autoplay {
+  float: left;
+  width: 100%;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+
+
+#poster {
+  width: 100%;
+}
+
+.poster-photo {
+  width: auto;
+  height: 230px;
+  float: left;
+  margin-left: 20px
+}
+
+#recommended-title {
+  text-align: center;
+  margin-right: 20px
+}
+
+.test-box {
+  display: block;
+  color: lightsteelblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 8px;
+  line-height: 1.3em; 
+  background-color: black;
+  border: 1px solid lightslategray;
+  border-radius: .25rem;
+  margin-bottom: 8px;
+  overflow: scroll;
+}
+
+#dtl-overview {
+  height: 150px;
+  overflow: scroll;
+}
+
+
+
+.checkbox {
+  width: 25%;
+}
+
+.watch-list-item {
+  width: 75%;
+  float: right;
+}
+
+#copyright {
+  bottom: 0;
+  color: #808080;
+  text-align: center;
+  padding: 0;
+  clear: both;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  margin: auto;
+  font-weight: 2;
+  font-size: 0.8em;
+  width: 100%;
+}
+ 
+
+.poster {
+  width: 100%;
+ }
+
+ #poster-photo1, #poster-photo2, #poster-photo3,
+ #poster-photo4, #poster-photo5, #poster-photo6,
+ #poster-photo7, #poster-photo8, #poster-photo9,
+ #poster-photo10
+ {
+  width: auto;
+  height: 230px;
+  float: none;
+  margin-left: 20px
+ }
+ 
+ .slick-slider {
+   margin-left: 355px;
+ }
+
+ #logo {
+   margin-left: 580px;
+   margin-right: 315px; 
+   float: left;
+   font-size: 45px;
+   color: #4196be;
+ }
+
+ .nav-link {
+   margin-top: 10px;
+   color: #808080 !important;
+   font-size: 30px;
+ }
+
+ .navbar {
+  height: 80px;
+ }
+
+ #nav-item-1{
+   background-color: #b3b3b3;
+ }
